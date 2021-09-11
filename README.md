@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaskeliLaz
+- 💻 Web & Discord Bot Developer.
 - 💻 HTML/CSS/JavaScript/Discord.js Developer.
 - 📫 İletişim;
 -  Discord => ! ぞEfeBey[+17]#4076
