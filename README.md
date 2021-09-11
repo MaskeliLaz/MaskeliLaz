@@ -2,3 +2,5 @@
 - 💻 HTML/CSS/JavaScript/Discord.js Developer.
 - 📫 İletişim;
 -  Discord => ! ぞEfeBey[+17]#4076
+-  Gmail: Yakında.
+-  Site: Yakında.
