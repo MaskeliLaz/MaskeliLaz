@@ -1,5 +1,5 @@
 - 💻 Web & Discord Bot Developer.
-- 💻 HTML/CSS/JavaScript/Discord.js Developer.
+- 💻 HTML/CSS/JavaScript/PHP/MySQL/Discord.js Developer.
 - 📫 İletişim;
 -  Discord => ! ぞEfeBey[+17]#4076
 -  Gmail: Yakında.
