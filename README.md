@@ -1,4 +1,5 @@
 - 💻 Web & Discord Bot Developer.
+- 💻 Learning C# & Python.
 - 💻 HTML/CSS/JavaScript/PHP/MySQL/Discord.js Developer.
 - 📫 İletişim;
 -  Discord => ! ぞEfeBey[+17]#4076
