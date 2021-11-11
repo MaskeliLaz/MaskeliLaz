@@ -1,4 +1,4 @@
-- 💻 Web & Discord Bot Developer.
+- 💯 Web & Discord Bot Developer.
 - 💻 Learning C# & Python.
 - 💻 HTML/CSS/JavaScript/PHP/MySQL/Discord.js Developer.
 - 📫 İletişim;
