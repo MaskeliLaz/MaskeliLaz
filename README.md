@@ -3,5 +3,5 @@
 - 💻 HTML/CSS/JavaScript/PHP/MySQL/Discord.js Developer.
 - 📫 İletişim;
 -  Discord => ! ぞEfeBey[+17]#4076
--  Gmail: Yakında.
+-  Gmail: asdmotor123456789@gmail.com
 -  Site: Yakında.
