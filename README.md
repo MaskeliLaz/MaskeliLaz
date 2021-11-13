@@ -1,6 +1,6 @@
-- 💯 Web & Discord Bot Developer.
-- 💻 Learning C# & Python.
-- 💻 HTML/CSS/JavaScript/PHP/MySQL/Discord.js Developer.
+- 💯 Desktop, Web, Discord Bot Developer.
+- 💻 Learning C/C+/C++ & Python.
+- 💻 HTML/CSS/JavaScript/PHP/MySQL/C#/Discord.js Developer.
 - 📫 İletişim;
 -  Discord => ! ぞEfeBey[+17]#4076
 -  Gmail: asdmotor123456789@gmail.com
