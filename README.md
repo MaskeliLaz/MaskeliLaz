@@ -2,6 +2,6 @@
 - 💻 Learning C/C+/C++ & Python.
 - 💻 HTML/CSS/JavaScript/PHP/MySQL/C#/Discord.js Developer.
 - 📫 İletişim;
--  Discord => ! ぞEfeBey[+17]#4076
--  Gmail: asdmotor123456789@gmail.com
+-  Discord => ! ᵐᵉʳʸEfeBey[+17]#0061
+-  Gmail: Yakında.
 -  Site: Yakında.
