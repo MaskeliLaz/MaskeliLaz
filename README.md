@@ -4,4 +4,4 @@
 - 📫 İletişim;
 -  Discord => ! EfeBey[+17]#2654
 -  Gmail: Yakında.
--  Site: www.efeyildiz.tk (Yakında).
+-  Site: efeyildiz.tk (Yakında).
