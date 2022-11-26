@@ -2,6 +2,6 @@
 - 💻 Learning C/C+/C++ & Python.
 - 💻 HTML/CSS/JavaScript/PHP/MySQL/C# Developer.
 - 📫 İletişim;
--  Discord => ! EfeBey[+17]#2654
+-  Discord => Efe Yıldız#2654
 -  Gmail: Yakında.
 -  Site: efeyildiz.tk (Yakında).
