@@ -1,7 +1,6 @@
 - 💯 Desktop, Web, Discord Bot Developer.
-- 💻 Learning C/C+/C++ & Python.
-- 💻 HTML/CSS/JavaScript/PHP/MySQL/C# Developer.
+- 💻 HTML,CSS,JavaScript,PHP,MySQL,C Developer.
 - 📫 İletişim;
--  Discord => Efe Yıldız#2654
+-  Discord => efediyebircoder (Efe Yıldız#2654)
 -  Gmail: Yakında.
--  Site: efeyildiz.tk (Yakında).
+-  Site: Yakında.
